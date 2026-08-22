@@ -1,3 +1,4 @@
+# Argo CD Auto-Sync Demo
 ---
 # Source: opentelemetry-demo/templates/component.yaml
 apiVersion: apps/v1
